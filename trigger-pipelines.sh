@@ -20,6 +20,5 @@ for REPO in "${REPOS[@]}"; do
 
   echo "Pipeline Ok"
 
-  
 done
 echo "Fin de trigger pipeline"
